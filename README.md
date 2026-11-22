@@ -6,6 +6,14 @@
 
 **My role:** C++/ImGui hierarchy and animation tools; Lua tutorial and tooltip interfaces. **Team:** GGPals, nine collaborators. **Project period:** September 2025–April 2026.
 
+## Original project and this public showcase
+
+**Originally:** a complete tactical team game, with a custom C++ engine and editor. My work supported the people authoring scenes and animations and the players learning the game through tutorials and tooltips.
+
+**What you can try now:** the linked team-hosted browser edition runs without installing the original development tools. This repository contains my selected C++/Lua contribution samples and an explanation of the work. The hosted build is maintained separately and may differ from the original custom-engine edition represented by these samples.
+
+**What is not included here:** a standalone build of the full engine, its complete asset library or all nine team members' source. The samples rely on the original engine interfaces. They are provided for code review; use the live link to play.
+
 ## Start with these samples
 
 - [Hierarchy panel](samples/GGEditor/src/Core/HierarchyNode.cpp): entity creation, duplication, selection and parent–child reorganisation.
