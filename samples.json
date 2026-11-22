@@ -1,0 +1,54 @@
+[
+  {
+    "file": "samples/GGEditor/include/HierarchyNode.hpp",
+    "purpose": "Contribution source sample; requires the original team engine."
+  },
+  {
+    "file": "samples/GGEditor/include/AnimationNode.hpp",
+    "purpose": "Contribution source sample; requires the original team engine."
+  },
+  {
+    "file": "samples/GGEditor/src/Core/HierarchyNode.cpp",
+    "purpose": "Contribution source sample; requires the original team engine."
+  },
+  {
+    "file": "samples/GGEditor/src/EditorAnimator/AnimationNode.cpp",
+    "purpose": "Contribution source sample; requires the original team engine."
+  },
+  {
+    "file": "samples/GGProjects/Order&Chaos/Assets/Scripts/m6_scripts/TutorialOverlay.lua",
+    "purpose": "Contribution source sample; requires the original team engine."
+  },
+  {
+    "file": "samples/GGProjects/Order&Chaos/Assets/Scripts/m6_scripts/TutorialManager.lua",
+    "purpose": "Contribution source sample; requires the original team engine."
+  },
+  {
+    "file": "samples/GGProjects/Order&Chaos/Assets/Scripts/m5_scripts/AbilityTooltip/AbilityTooltip.lua",
+    "purpose": "Contribution source sample; requires the original team engine."
+  },
+  {
+    "file": "samples/GGProjects/Order&Chaos/Assets/Scripts/m5_scripts/AbilityTooltip/TooltipCost.lua",
+    "purpose": "Contribution source sample; requires the original team engine."
+  },
+  {
+    "file": "samples/GGProjects/Order&Chaos/Assets/Scripts/m5_scripts/AbilityTooltip/TooltipDamage.lua",
+    "purpose": "Contribution source sample; requires the original team engine."
+  },
+  {
+    "file": "samples/GGProjects/Order&Chaos/Assets/Scripts/m5_scripts/AbilityTooltip/TooltipDescription.lua",
+    "purpose": "Contribution source sample; requires the original team engine."
+  },
+  {
+    "file": "samples/GGProjects/Order&Chaos/Assets/Scripts/m5_scripts/AbilityTooltip/TooltipDescription2.lua",
+    "purpose": "Contribution source sample; requires the original team engine."
+  },
+  {
+    "file": "samples/GGProjects/Order&Chaos/Assets/Scripts/m5_scripts/AbilityTooltip/TooltipName.lua",
+    "purpose": "Contribution source sample; requires the original team engine."
+  },
+  {
+    "file": "samples/GGProjects/Order&Chaos/Assets/Scripts/m5_scripts/AbilityTooltip/TooltipType.lua",
+    "purpose": "Contribution source sample; requires the original team engine."
+  }
+]

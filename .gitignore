@@ -1,0 +1,5 @@
+.env*
+*.pdb
+*.user
+.vs/
+build/
